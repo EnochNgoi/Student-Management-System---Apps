@@ -1,2 +1,3 @@
-# Student-Management-System---Apps
+# Student-Management-System-Apps
 My first mobile application in Java
+The Student Management System is an intuitive and user-friendly application designed to streamline the management of student records. It allows users to perform various operations, including adding, updating, deleting, and searching for student information. Users can also view all student records, sort them by name, and calculate the average age of students. The system supports input fields for student details such as ID, name, age, gender, and course, with real-time feedback displayed in a scrollable results area. This system is ideal for educational institutions or small organizations seeking an efficient way to manage student data.
