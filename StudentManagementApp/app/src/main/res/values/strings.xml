@@ -1,0 +1,16 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Student Management System</string>
+
+    <!-- Spinner Options -->
+    <string-array name="menu_options">
+        <item>Add Student</item>
+        <item>Delete Student</item>
+        <item>Update Student</item>
+        <item>Display All Students</item>
+        <item>Search Student by ID</item>
+        <item>Sort Students by Name</item>
+        <item>Calculate Average Age</item>
+        <item>Exit</item>
+    </string-array>
+</resources>
